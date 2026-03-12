@@ -14,3 +14,9 @@ This project utilizes the **"Status and Just Gender Pay Gaps"** dataset sourced 
 ## 💻 Tech Stack
 * **Language:** Python
 * **Libraries:** Scikit-learn, Pandas, Seaborn, NumPy
+
+## 👥 Contributors
+This project was developed collaboratively as a group assignment at UPC. I worked alongside my teammate to design, implement, and test the final solution.
+
+* **Esteve Estop Cepero** - [@esteveestop](https://github.com/esteveestop)
+* **Sambhav Mayani** - [@SambhavMA](https://github.com/SambhavMA)
